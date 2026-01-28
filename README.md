@@ -23,6 +23,3 @@ El sistema en los pedales, utiliza un sensor de efecto Hall para detectar la pos
 - Pedal abierto → otra nota MIDI
 
 Arduino envía datos MIDI a la computadora, donde una estación de trabajo de audio digital (DAW) reproduce sonidos de batería en tiempo real.
-
-## 👨‍💻 Autor
-Proyecto personal de Arduino + Tecnología musical
